@@ -3,4 +3,4 @@ A repo for keeping track of the things I do as part of Alex Edwards' "let's go" 
 
 ## Getting started
 
-To keep things clean and consistent, run everything through docker. Build the base image using `docker build -t lets-go .` and run whatever you want via `docker run lets-go yourcommand` 
+To keep things clean and consistent, all the stuff in this repo can be ran from a docker container. It also doubles as the devcontainer for vscode. Build it using `docker build -t lets-go .`
